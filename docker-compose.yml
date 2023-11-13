@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  react-native-app:
+    build:
+      context: ./recipe_finder_frontend
+      dockerfile: Dockerfile
+    ports:
+      - "19000:19000"
+      - "19001:19001"
+      - "19002:19002"
+    volumes:
+      - ./recipe_finder_frontend:/usr/app
+      - /usr/app/node_modules
+    environment:
+      - NODE_ENV=development
+
+  flask-app:
+    build:
+      context: ./recipe_finder_backend
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./recipe_finder_backend:/usr/src/app
+    environment:
+      - NAME=World

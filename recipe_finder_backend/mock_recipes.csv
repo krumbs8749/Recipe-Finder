@@ -1,0 +1,101 @@
+id,name,ingredients,instructions
+1,Recipe 1,"eggs, olive oil, flour",Combine ingredients and cook to taste.
+2,Recipe 2,"basil, onion, rice",Combine ingredients and cook to taste.
+3,Recipe 3,"lettuce, tomato, garlic, eggs, salt",Combine ingredients and cook to taste.
+4,Recipe 4,"beef, onion, cheese, rice, milk, garlic, sugar",Combine ingredients and cook to taste.
+5,Recipe 5,"flour, butter, olive oil",Combine ingredients and cook to taste.
+6,Recipe 6,"flour, cheese, mushroom, tomato",Combine ingredients and cook to taste.
+7,Recipe 7,"lettuce, flour, beef, chicken, mushroom, pasta",Combine ingredients and cook to taste.
+8,Recipe 8,"beef, olive oil, cheese",Combine ingredients and cook to taste.
+9,Recipe 9,"garlic, eggs, milk, butter, tomato, mushroom",Combine ingredients and cook to taste.
+10,Recipe 10,"carrot, lettuce, sugar, basil, cheese, salt",Combine ingredients and cook to taste.
+11,Recipe 11,"chicken, butter, pasta, olive oil, mushroom, beef",Combine ingredients and cook to taste.
+12,Recipe 12,"carrot, eggs, olive oil, rice, mushroom, sugar, beef",Combine ingredients and cook to taste.
+13,Recipe 13,"sugar, olive oil, mushroom, pasta, pepper, salt",Combine ingredients and cook to taste.
+14,Recipe 14,"flour, basil, onion, pepper, tomato, chicken",Combine ingredients and cook to taste.
+15,Recipe 15,"pepper, salt, chicken, cheese, eggs, butter, garlic",Combine ingredients and cook to taste.
+16,Recipe 16,"onion, tomato, olive oil, beef, lettuce",Combine ingredients and cook to taste.
+17,Recipe 17,"milk, tomato, sugar, chicken, basil, eggs",Combine ingredients and cook to taste.
+18,Recipe 18,"chicken, beef, butter",Combine ingredients and cook to taste.
+19,Recipe 19,"chicken, basil, cheese, butter, eggs, onion",Combine ingredients and cook to taste.
+20,Recipe 20,"carrot, cheese, tomato, chicken, basil, onion",Combine ingredients and cook to taste.
+21,Recipe 21,"mushroom, onion, butter, pasta",Combine ingredients and cook to taste.
+22,Recipe 22,"basil, rice, lettuce",Combine ingredients and cook to taste.
+23,Recipe 23,"olive oil, mushroom, garlic, sugar, rice, beef, pepper",Combine ingredients and cook to taste.
+24,Recipe 24,"milk, tomato, eggs, cheese",Combine ingredients and cook to taste.
+25,Recipe 25,"beef, sugar, tomato, chicken, rice, lettuce",Combine ingredients and cook to taste.
+26,Recipe 26,"onion, garlic, pepper, milk, olive oil, basil, eggs",Combine ingredients and cook to taste.
+27,Recipe 27,"cheese, chicken, olive oil, eggs, garlic, basil, milk",Combine ingredients and cook to taste.
+28,Recipe 28,"basil, chicken, pasta, olive oil",Combine ingredients and cook to taste.
+29,Recipe 29,"milk, eggs, pepper",Combine ingredients and cook to taste.
+30,Recipe 30,"sugar, mushroom, milk, flour",Combine ingredients and cook to taste.
+31,Recipe 31,"mushroom, cheese, flour",Combine ingredients and cook to taste.
+32,Recipe 32,"flour, mushroom, lettuce, milk",Combine ingredients and cook to taste.
+33,Recipe 33,"basil, garlic, rice, flour, pepper, tomato",Combine ingredients and cook to taste.
+34,Recipe 34,"olive oil, milk, chicken",Combine ingredients and cook to taste.
+35,Recipe 35,"garlic, cheese, olive oil",Combine ingredients and cook to taste.
+36,Recipe 36,"salt, olive oil, cheese, butter, sugar",Combine ingredients and cook to taste.
+37,Recipe 37,"chicken, carrot, salt, pepper, onion, eggs, beef",Combine ingredients and cook to taste.
+38,Recipe 38,"tomato, milk, eggs, pepper, beef, rice, lettuce",Combine ingredients and cook to taste.
+39,Recipe 39,"basil, carrot, eggs, mushroom, pasta, cheese, tomato",Combine ingredients and cook to taste.
+40,Recipe 40,"eggs, onion, basil",Combine ingredients and cook to taste.
+41,Recipe 41,"basil, sugar, flour",Combine ingredients and cook to taste.
+42,Recipe 42,"onion, mushroom, butter",Combine ingredients and cook to taste.
+43,Recipe 43,"beef, mushroom, carrot, tomato",Combine ingredients and cook to taste.
+44,Recipe 44,"olive oil, flour, milk, onion, eggs",Combine ingredients and cook to taste.
+45,Recipe 45,"beef, carrot, pepper, mushroom, rice, basil",Combine ingredients and cook to taste.
+46,Recipe 46,"eggs, basil, tomato, lettuce, rice",Combine ingredients and cook to taste.
+47,Recipe 47,"pasta, milk, mushroom, butter, beef",Combine ingredients and cook to taste.
+48,Recipe 48,"rice, flour, mushroom, onion",Combine ingredients and cook to taste.
+49,Recipe 49,"milk, lettuce, olive oil, pasta, garlic, sugar, tomato",Combine ingredients and cook to taste.
+50,Recipe 50,"butter, olive oil, salt, chicken",Combine ingredients and cook to taste.
+51,Recipe 51,"carrot, chicken, tomato, cheese, olive oil",Combine ingredients and cook to taste.
+52,Recipe 52,"pasta, salt, mushroom, eggs, carrot",Combine ingredients and cook to taste.
+53,Recipe 53,"beef, chicken, butter, carrot, salt",Combine ingredients and cook to taste.
+54,Recipe 54,"pasta, eggs, chicken",Combine ingredients and cook to taste.
+55,Recipe 55,"pepper, tomato, basil, butter, carrot, milk",Combine ingredients and cook to taste.
+56,Recipe 56,"butter, lettuce, cheese, olive oil, basil, garlic",Combine ingredients and cook to taste.
+57,Recipe 57,"pasta, milk, cheese",Combine ingredients and cook to taste.
+58,Recipe 58,"rice, pasta, salt, flour, garlic",Combine ingredients and cook to taste.
+59,Recipe 59,"beef, milk, pasta, tomato",Combine ingredients and cook to taste.
+60,Recipe 60,"pepper, pasta, garlic, basil",Combine ingredients and cook to taste.
+61,Recipe 61,"cheese, milk, pepper, pasta, mushroom, basil, tomato",Combine ingredients and cook to taste.
+62,Recipe 62,"chicken, tomato, butter, garlic, basil",Combine ingredients and cook to taste.
+63,Recipe 63,"tomato, pasta, beef",Combine ingredients and cook to taste.
+64,Recipe 64,"tomato, flour, chicken, pepper",Combine ingredients and cook to taste.
+65,Recipe 65,"butter, rice, beef, mushroom, onion",Combine ingredients and cook to taste.
+66,Recipe 66,"milk, olive oil, onion, carrot, butter, mushroom, beef",Combine ingredients and cook to taste.
+67,Recipe 67,"butter, salt, rice",Combine ingredients and cook to taste.
+68,Recipe 68,"pasta, flour, onion, beef",Combine ingredients and cook to taste.
+69,Recipe 69,"milk, flour, tomato, pasta",Combine ingredients and cook to taste.
+70,Recipe 70,"sugar, rice, cheese, olive oil, beef",Combine ingredients and cook to taste.
+71,Recipe 71,"eggs, tomato, basil, chicken, butter, pasta, garlic",Combine ingredients and cook to taste.
+72,Recipe 72,"eggs, cheese, carrot, tomato, milk, mushroom",Combine ingredients and cook to taste.
+73,Recipe 73,"carrot, sugar, rice",Combine ingredients and cook to taste.
+74,Recipe 74,"cheese, tomato, lettuce, beef, flour, olive oil",Combine ingredients and cook to taste.
+75,Recipe 75,"salt, sugar, carrot, eggs",Combine ingredients and cook to taste.
+76,Recipe 76,"olive oil, sugar, onion",Combine ingredients and cook to taste.
+77,Recipe 77,"lettuce, beef, eggs, pasta, sugar, mushroom",Combine ingredients and cook to taste.
+78,Recipe 78,"flour, lettuce, tomato",Combine ingredients and cook to taste.
+79,Recipe 79,"milk, pasta, chicken, eggs",Combine ingredients and cook to taste.
+80,Recipe 80,"lettuce, rice, basil, pasta, butter, garlic, pepper",Combine ingredients and cook to taste.
+81,Recipe 81,"lettuce, flour, garlic, butter",Combine ingredients and cook to taste.
+82,Recipe 82,"cheese, rice, milk, flour, olive oil",Combine ingredients and cook to taste.
+83,Recipe 83,"pasta, garlic, tomato, salt",Combine ingredients and cook to taste.
+84,Recipe 84,"garlic, sugar, lettuce, milk, flour, beef, salt",Combine ingredients and cook to taste.
+85,Recipe 85,"garlic, chicken, rice",Combine ingredients and cook to taste.
+86,Recipe 86,"milk, lettuce, basil, cheese, sugar, rice, mushroom",Combine ingredients and cook to taste.
+87,Recipe 87,"salt, rice, chicken, flour, garlic, cheese",Combine ingredients and cook to taste.
+88,Recipe 88,"cheese, mushroom, pepper, lettuce",Combine ingredients and cook to taste.
+89,Recipe 89,"olive oil, eggs, butter",Combine ingredients and cook to taste.
+90,Recipe 90,"carrot, pasta, milk, chicken, garlic",Combine ingredients and cook to taste.
+91,Recipe 91,"onion, butter, lettuce, mushroom, garlic",Combine ingredients and cook to taste.
+92,Recipe 92,"garlic, tomato, milk",Combine ingredients and cook to taste.
+93,Recipe 93,"tomato, beef, pasta, milk, cheese",Combine ingredients and cook to taste.
+94,Recipe 94,"beef, mushroom, tomato, chicken",Combine ingredients and cook to taste.
+95,Recipe 95,"cheese, olive oil, garlic, eggs, milk, rice",Combine ingredients and cook to taste.
+96,Recipe 96,"carrot, garlic, lettuce, tomato",Combine ingredients and cook to taste.
+97,Recipe 97,"pepper, butter, milk, rice, salt",Combine ingredients and cook to taste.
+98,Recipe 98,"chicken, lettuce, salt, carrot, tomato, flour, olive oil",Combine ingredients and cook to taste.
+99,Recipe 99,"rice, lettuce, sugar, eggs, mushroom, olive oil",Combine ingredients and cook to taste.
+100,Recipe 100,"chicken, pepper, garlic",Combine ingredients and cook to taste.
