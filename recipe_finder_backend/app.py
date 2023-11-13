@@ -2,7 +2,6 @@ from flask import Flask, request, jsonify
 import pandas as pd
 from transformers import BertTokenizer, BertModel
 from sklearn.metrics.pairwise import cosine_similarity
-import torch
 from flask_cors import CORS
 
 app = Flask(__name__)

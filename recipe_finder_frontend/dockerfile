@@ -1,0 +1,29 @@
+# Use the official Node.js 14 image as a parent image
+FROM node:14
+
+# Set the working directory in the container
+WORKDIR /usr/app
+
+# Copy package.json and package-lock.json to workdir
+COPY package*.json ./
+
+# Install dependencies
+RUN npm install
+
+# Copy the rest of your app's source code from your host to your image filesystem.
+COPY . .
+
+# Expo CLI is needed to run the React Native app
+RUN npm install -g expo-cli
+
+# Make port 19000 available to the world outside this container for the Expo dev server
+EXPOSE 19000
+
+# Make port 19001 available for the Expo dev tools
+EXPOSE 19001
+
+# Make port 19002 available for the Metro bundler
+EXPOSE 19002
+
+# Run the app when the container launches
+CMD ["npm", "start"]
